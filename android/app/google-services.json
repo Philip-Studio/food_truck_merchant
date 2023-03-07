@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "335200727473",
+    "firebase_url": "https://foodtruck-d8f65-default-rtdb.firebaseio.com",
+    "project_id": "foodtruck-d8f65",
+    "storage_bucket": "foodtruck-d8f65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335200727473:android:a7ff968023776dfc360d90",
+        "android_client_info": {
+          "package_name": "com.example.food_truck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335200727473-rvalrockmnoqrjdknbv9b9m6aq0jv327.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_truck",
+            "certificate_hash": "dd62628e98943695a04e9b8cdb6800c2a93f8ee6"
+          }
+        },
+        {
+          "client_id": "335200727473-69d9dmsccqvc0kvbpeuds2jmhkjkj9j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1AnL1DzhrdwbGHLDeT0o9n6plc5OztK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335200727473-69d9dmsccqvc0kvbpeuds2jmhkjkj9j4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335200727473-6qmo2b3jfnofnmao67oj19bp08mjcoal.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodTruck"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335200727473:android:69632de34e381310360d90",
+        "android_client_info": {
+          "package_name": "com.phucnguyen.food_truck_merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335200727473-69d9dmsccqvc0kvbpeuds2jmhkjkj9j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1AnL1DzhrdwbGHLDeT0o9n6plc5OztK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335200727473-69d9dmsccqvc0kvbpeuds2jmhkjkj9j4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335200727473-6qmo2b3jfnofnmao67oj19bp08mjcoal.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodTruck"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
